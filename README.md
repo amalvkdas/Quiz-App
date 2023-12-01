@@ -1,6 +1,27 @@
-# React + Vite
+# React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
+
+This repository contains the source code for a React-based Quiz App. The app is designed to provide users with an interactive quiz experience, featuring randomized questions and a simple scoring system.
+Key Features
+
+    Randomized Questions: Questions are shuffled to provide a unique experience in each quiz session.
+    Scoring System: Users can track their performance with a scoring mechanism.
+    Responsive Design: The app is built with responsiveness in mind to ensure a seamless experience across devices.
+
+Technologies Used
+
+    React
+    JavaScript
+    HTML/CSS
+
+Getting Started
+
+To run the app locally, follow these steps:
+
+    Clone the repository: git clone https://github.com/your-username/Quiz-App.git
+    Install dependencies: npm install
+    Start the development server: npm start
 
 Currently, two official plugins are available:
 
